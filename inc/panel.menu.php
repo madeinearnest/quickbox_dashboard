@@ -20,7 +20,7 @@
             </div>
           </li>
           <?php } ?>
-          <?php if ($username == "$master") { ?>
+          <?php /*if ($username == "$master") { ?>
           <li>
             <div id="noticePanel" class="btn-group">
               <button class="btn" data-toggle="dropdown">
@@ -128,7 +128,7 @@
               </div>
             </div>
           </li>
-          <?php } ?>
+          <?php }*/ ?>
           <li>
             <div class="btn-group">
               <button type="button" class="btn btn-logged" data-toggle="dropdown">
