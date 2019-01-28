@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
   <meta name="description" content="<?php echo $panel['description'] ?>">
   <meta name="author" content="<?php echo $panel['author'] ?>">
-  <title><?php echo $panel['title'] ?></title>
+  <title>SeedIt4Me Panel</title>
   <meta name="robots" content="<?php echo $panel['robots'] ?>">
   <meta name="theme-color" content="#ffffff">
   <!-- FAVICON ASSETTS -->
